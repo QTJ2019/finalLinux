@@ -1,0 +1,12 @@
+2020-06-14 18:52:18.410 [main] DEBUG com.jian.finallinux.dao.InfoDao.getPerson- ==>  Preparing: select person_name, person_number from tb_person where person_id=? 
+2020-06-14 18:52:18.467 [main] DEBUG com.jian.finallinux.dao.InfoDao.getPerson- ==> Parameters: 1(Long)
+2020-06-14 18:52:18.564 [main] DEBUG com.jian.finallinux.dao.InfoDao.getPerson- <==      Total: 0
+2020-06-14 18:52:18.591 [main] DEBUG com.jian.finallinux.dao.InfoDao.getPerson- ==>  Preparing: select person_name, person_number from tb_person where person_id=? 
+2020-06-14 18:52:18.591 [main] DEBUG com.jian.finallinux.dao.InfoDao.getPerson- ==> Parameters: 1(Long)
+2020-06-14 18:52:18.652 [main] DEBUG com.jian.finallinux.dao.InfoDao.getPerson- <==      Total: 0
+2020-06-14 18:53:06.473 [main] DEBUG com.jian.finallinux.dao.InfoDao.getPerson- ==>  Preparing: select person_name, person_number from tb_person where person_id=? 
+2020-06-14 18:53:06.522 [main] DEBUG com.jian.finallinux.dao.InfoDao.getPerson- ==> Parameters: 1(Long)
+2020-06-14 18:53:06.625 [main] DEBUG com.jian.finallinux.dao.InfoDao.getPerson- <==      Total: 0
+2020-06-14 18:53:06.659 [main] DEBUG com.jian.finallinux.dao.InfoDao.getPerson- ==>  Preparing: select person_name, person_number from tb_person where person_id=? 
+2020-06-14 18:53:06.660 [main] DEBUG com.jian.finallinux.dao.InfoDao.getPerson- ==> Parameters: 1(Long)
+2020-06-14 18:53:06.733 [main] DEBUG com.jian.finallinux.dao.InfoDao.getPerson- <==      Total: 0
